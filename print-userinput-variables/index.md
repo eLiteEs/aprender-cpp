@@ -19,7 +19,7 @@ Las líneas del código acaban en `;`. Y hay una forma de escribir eso más ráp
 ```
 #include <iostream>
 
-// Usar las librerías de C++ std
+// Usar la librería de C++ std
 using namespace std;
 
 int main() {
