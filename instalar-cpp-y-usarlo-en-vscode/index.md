@@ -21,4 +21,4 @@ int main() {
 ```
 Para ejecutarlo, en la esquina superior derecha, hay un icono con el símbolo de play, su lo pulsas se te ejecuta el archivo con el resultado en la terminal `Hello World!`.
 
-Siguiente: [Imprimr, User Input y Variables](..\print-userinput-variables\index.md)
+Siguiente: [Imprimr, User Input y Variables](https://github.com/eLiteEs/aprender-cpp/blob/main/print-userinput-variables/index.md)
